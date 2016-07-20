@@ -6,7 +6,7 @@
 cmake_minimum_required (VERSION 2.6)
 
 # The project name
-project(sim CXX)
+project(venomoth CXX)
 
 # The file to start compiling with
-add_executable(sim src/main.cc)
+add_executable(venomoth src/main.cc)
