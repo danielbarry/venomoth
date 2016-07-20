@@ -1,0 +1,8 @@
+# Ignore directories
+**/CMakeFiles
+# Ignore extension
+*.cmake
+# Ignore files
+CMakeCache.txt
+Makefile
+sim
